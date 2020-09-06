@@ -8,7 +8,7 @@
 | --- | --------- |
 |1  | [What is a Database?](#why-laravel) |
 |2  | [What is a Relational Database?](#php-inheritance) |
-|3  | [RDBMS](#what-is-dependency-manager) |
+|3  | [What is RDBMS?](#what-is-dependency-manager) |
 |4  | [Introduction to SQL](#what-is-api-php) |
 |5  | [Naming Conventions](#what-is-channels-php) |
 |6  | [Data Integrity](#what-is-console-php) |
@@ -53,52 +53,86 @@
 |45 | [Alias](#What-are-Microservices-in-Laravel) |
 |46 | [ Self Join](#what-is-CSRF-and-JWT-token) |
 
-1. ### What are the pros of using Laravel?
+1. ### What is a Database
 
- A. Most demanded PHP framework.
- B. Great documentation.
- C. MVC based.
- D. ORM for DB.
- E. Blade templating engine
+It is a structured way of storing data.
 
 
  **[⬆ Back to Top](#table-of-contents)**
     
-2. ### What is inheritance in PHP?
+2. ### What is a Relational Database?
 
-When a class inherits another class. It uses extends.
- ```
- <!DOCTYPE html>
- <html>
- <body>
+It has tables i.e rows and columns. You can create relations i.e joins and unions. 
+ 
+  **[⬆ Back to Top](#table-of-contents)**
+  
+3. ### What is RDBMS?
 
- <?php
- class Fruit {
-   public $name;
-   public $color;
-   public function __construct($name, $color) {
-     $this->name = $name;
-     $this->color = $color; 
-   }
-   public function intro() {
-     echo "The fruit is {$this->name} and the color is {$this->color}."; 
-   }
- }
-
- // Strawberry is inherited from Fruit
- class Strawberry extends Fruit {
-   public function message() {
-     echo "Am I a fruit or a berry? "; 
-   }
- }
-
- $strawberry = new Strawberry("Strawberry", "red");
- $strawberry->message();
- $strawberry->intro();
- ?>
-
- </body>
- </html>
- ```
+The key difference is that RDBMS (relational database management system) applications store data in a tabular form, while DBMS applications store data as files.
+ 
   **[⬆ Back to Top](#table-of-contents)**
     
+ 4. Introduction to SQL
+``` 
+SELECT
+UPDATE
+DELETE
+INSERT
+TABLE
+JOIN
+UNION
+Aggregate functions
+SELECT DISTINCT
+WHERE
+AND
+OR
+NOT
+SELECT TOP
+MIN
+MAX
+COUNT
+AVG
+SUM
+LIKE
+Wildcards
+In
+Between
+Alias
+Inner Join
+Left Join
+Right Join
+Full Join
+Self Join
+Group By
+Having
+Exists
+All
+Any
+SELECT INTO
+INSERT INTO SELECT
+CASE
+NULL FUNCTIONS
+STORED PROCEDURES
+COMMENTS
+OPERATIONS
+SQL Create DB
+SQL Drop DB
+SQL Backup DB
+SQL Create Table
+SQL Drop Table
+SQL Alter Table
+SQL Constraints
+SQL Not Null
+SQL Unique
+SQL Primary Key
+SQL Foreign Key
+SQL Check
+SQL Default
+SQL Index
+SQL Auto Increment
+SQL Dates
+SQL Views
+SQL Injection
+SQL Hosting
+SQL Data Types
+```
