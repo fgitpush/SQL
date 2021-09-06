@@ -170,6 +170,8 @@
 |104 | [set operators](#what-is-CSRF-and-JWT-token) |
 |104 | [Find out the currently running task inside SSIS.](#what-is-CSRF-and-JWT-token) |
 |104 | [Explain differences between primary key and unique key](#what-is-CSRF-and-JWT-token) |
+
+
 why jda
 how many type of ALWAYSON IN SQL
 Azure Migration
