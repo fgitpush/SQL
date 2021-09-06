@@ -229,6 +229,69 @@ sql loader. How to truncate partition. error in extenal table. some scenario bas
 Indexing and partitioning strategies
 does deadlock occur in SQL 
 why hexaware
+join,transaction,lock,block,deadlock
+Quries , Remove duplicates with different functionalities , quest based on analytical functions , rank , desk rank , first , last ,grouping
+log shipping, mirroring, clustering, Always on
+SQL Replication questions, Question on HADR like Mirroring , logshipping and Always On. SQL performance related question
+Normalization and its types.Trigger and its types.diff bet Procedure and Function.Constraints.Use of Primary key and Foreign key.some Real time example for above concepts
+How to create a compound trigger?
+basics of SQL, SQL performances,SSIR,SSRS,SQL Quries
+WHAT IS CHECKPOINT AND WHAT ARE CONFIG OPTIONS AVAILABLE?
+What is referential integrity
+SQL: joins, constraints, clauses, identity column
+Overview of Azure data factory and it's use.
+Plsql - collections, bulk collect SQL -truncate function with dates, logical sql queries Data base modeling Performance tuning
+Same questions, queries asked in each round
+what are views
+
+what is index
+
+SQL Joins, Aggregation functions, substring, sql queries based on the interviewer's conditions, Java oops concepts, Normalisation- removing redundancy, small puzzles
+
+What different are the Constraints used on Table Columns in SQL?
+
+questions on join,types of join,view,unique key, some basic question query was lyk, write a query to display 3rd highest salary of employee
+
+
+Difference between a view and materialized view? Can we modify a view? if any view is modifiable? Difference between PLSQL table and Varray? Have you ever used utl_file package? Write a program to bulk insert into a table using FORALL ? Find the 2nd highest salary of an employee? Difference between procedure and function
+
+
+high availability concepts
+
+
+
+Difference between truncate and delete write query to get third maximum salary. write query to get all employee belonging to sales department having salary > 20000. what is view ? what is trigger?
+
+sql joins, constraints, normalization etc
+
+
+Difference between Procedures and Functions?
+
+
+WHAT ARE DIFF JOINS IN SQL? & EXPLAIN CARTISIAN JOIN.
+
+Olap vs oltp
+
+what is difference between union and union all?
+
+can primary key have null value?
+
+
+types of SDLC
+
+types of SDLC
+
+Clustered and Non-clustered indexes.
+
+Difference between ASM and ADDR report
+
+
+
+
+
+
+
+
 
 
 
