@@ -108,8 +108,141 @@
 |100 | [Right Outer Join](#What-is-Horizontal-scaling) |
 |101 | [JOIN with NOT NULL Columns](#What-is-Vertical-scaling) |
 |102 | [Outer Join Across 3 Tables](#What--Single-Page-Application-in-Laravel) |
-|103 | [Alias](#What-are-Microservices-in-Laravel) |
-|104 | [ Self Join](#what-is-CSRF-and-JWT-token) |
+|103 | [What is the difference between SQL and MySQL?](#What-are-Microservices-in-Laravel) |
+|104 | [What are the different subsets of SQL?](#what-is-CSRF-and-JWT-token) |
+|104 | [What do you mean by DBMS? What are its different types?](#what-is-CSRF-and-JWT-token) |
+|104 | [What do you mean by table and field in SQL?](#what-is-CSRF-and-JWT-token) |
+|104 | [What are joins in SQL?](#what-is-CSRF-and-JWT-token) |
+|104 | [What is the difference between CHAR and VARCHAR2 datatype in SQL?](#what-is-CSRF-and-JWT-token) |
+|104 | [What is the Primary key?](#what-is-CSRF-and-JWT-token) |
+|104 | [What are Constraints?](#what-is-CSRF-and-JWT-token) |
+|104 | [What is the difference between DELETE and TRUNCATE statements?](#what-is-CSRF-and-JWT-token) |
+|104 | [What is a Unique key?](#what-is-CSRF-and-JWT-token) |
+|104 | [How to break many:many relationship in 2 SQL tables?](#what-is-CSRF-and-JWT-token) |
+|104 | [SQL query to remove duplicate records](#what-is-CSRF-and-JWT-token) |
+|104 | [SQL query to count the occurrences of character 'R' in a string](#what-is-CSRF-and-JWT-token) |
+|104 | [What is Use of Partial View](#what-is-CSRF-and-JWT-token) |
+|104 | [Can you write SQL SPs?](#what-is-CSRF-and-JWT-token) |
+|104 | [How will you find out a third retweet using SQL - considering the database of twitter?](#what-is-CSRF-and-JWT-token) |
+|104 | [Find the second largest salary from the employee's table](#what-is-CSRF-and-JWT-token) |
+|104 | [SQL query consisting sets theory.](#what-is-CSRF-and-JWT-token) |
+|104 | [plsql](#what-is-CSRF-and-JWT-token) |
+|104 | [SDLC](#what-is-CSRF-and-JWT-token) |
+|104 | [Microstrategy Schema Designing](#what-is-CSRF-and-JWT-token) |
+|104 | [Redshift](#what-is-CSRF-and-JWT-token) |
+|104 | [Write an SQL querry to determine the third highest salary?](#what-is-CSRF-and-JWT-token) |
+|104 | [Transactions](#what-is-CSRF-and-JWT-token) |
+|104 | [ACID property](#what-is-CSRF-and-JWT-token) |
+|104 | [Data Warehouse](#what-is-CSRF-and-JWT-token) |
+|104 | [stored procedures vs functions](#what-is-CSRF-and-JWT-token) |
+|104 | [Business Intelligence](#what-is-CSRF-and-JWT-token) |
+|104 | [Trigger](#what-is-CSRF-and-JWT-token) |
+|104 | [Multirow functions](#what-is-CSRF-and-JWT-token) |
+|104 | [find top 10 employee by using DENSE RANK](#what-is-CSRF-and-JWT-token) |
+|104 | [Write a procedure to store all the data from a table to a collection table.](#what-is-CSRF-and-JWT-token) |
+|104 | [What are Aggregate functions](#what-is-CSRF-and-JWT-token) |
+|104 | [What is lazy writer.?](#what-is-CSRF-and-JWT-token) |
+|104 | [Calculate the no of exp of the employees from the joining date from table?](#what-is-CSRF-and-JWT-token) |
+|104 | [how to find out 1st highest salary](#what-is-CSRF-and-JWT-token) |
+|104 | [How will you retrieve the crashed database?](#what-is-CSRF-and-JWT-token) |
+|104 | [Out of n records the query to pickup 3 to 8 records from a table?](#what-is-CSRF-and-JWT-token) |
+|104 | [what are the recovery models?](#what-is-CSRF-and-JWT-token) |
+|104 | [Materialized Views](#what-is-CSRF-and-JWT-token) |
+|104 | [Whether once can drop an MV, if yes then what will happen to its table](#what-is-CSRF-and-JWT-token) |
+|104 | [Types of MV](#what-is-CSRF-and-JWT-token) |
+|104 | [Grants and Privileges](#what-is-CSRF-and-JWT-token) |
+|104 | [Synonyms](#what-is-CSRF-and-JWT-token) |
+|104 | [Autonomous Transactions](#what-is-CSRF-and-JWT-token) |
+|104 | [Parallel Hints](#what-is-CSRF-and-JWT-token) |
+|104 | [Benefits of Packages](#what-is-CSRF-and-JWT-token) |
+|104 | [Performance Tuning](#what-is-CSRF-and-JWT-token) |
+|104 | [how many types of subqueries](#what-is-CSRF-and-JWT-token) |
+|104 | [cursor](#what-is-CSRF-and-JWT-token) |
+|104 | [Group function ](#what-is-CSRF-and-JWT-token) |
+|104 | [Difference between where and having](#what-is-CSRF-and-JWT-token) |
+|104 | [If there is a table with a primary key would it be possible to create a clustered index on the table?](#what-is-CSRF-and-JWT-token) |
+|104 | [OLTP](#what-is-CSRF-and-JWT-token) |
+|104 | [OLAP](#what-is-CSRF-and-JWT-token) |
+|104 | [SSIS troubleshooting](#what-is-CSRF-and-JWT-token) |
+|104 | [Types of backup on SQL](#what-is-CSRF-and-JWT-token) |
+|104 | [how to load unstructured data in oracle tables?](#what-is-CSRF-and-JWT-token) |
+|104 | [what are all the DDL command ?](#what-is-CSRF-and-JWT-token) |
+|104 | [set operators](#what-is-CSRF-and-JWT-token) |
+|104 | [Find out the currently running task inside SSIS.](#what-is-CSRF-and-JWT-token) |
+|104 | [Explain differences between primary key and unique key](#what-is-CSRF-and-JWT-token) |
+why jda
+how many type of ALWAYSON IN SQL
+Azure Migration
+How will you construct the database for 1000 users and what its size?
+collection
+SQL Loader
+Merge statement
+Differ bw view nd alias name
+PIVOT table
+DML and DDL command
+Types of joints in sql server
+bitmap index
+case
+analytical functions
+What is the output of SUM(NULL)?
+indexing
+partitioning
+How to optimize query ?
+Basic questions like rank, dense rank union and collection concepts
+How would you reset a sequence in Oracle
+Write query to retrive the salary and the employee name from the table employee and salary table.
+what is private and public specifier related to package
+SQL Tuning and Replication
+Normalization
+floor and ceil functions
+constraints
+how to restore master database.
+What is truncate in sql?
+Find Cumulative sum
+how to resolve deadlock in mysql
+.net page lifecycle,MPFL,firewalls,sql proc,UDF,Delegates,Authenticatuion ,authorization
+basic SQL query for first 5 record in list
+Types of SQL statement
+Explain SDLC Explain normalisation? Sub queries?
+Write a query to find Second highest salary from employee table? and many more.....
+delete row 3 with primary key ... add row 3 again but it should come exactly at the place of previously deleted 3
+Apti reasoning
+What is a default constraint? Explain with an example.
+What do you understand by a Character Manipulation function?
+high availibility planing
+sidaster
+how to tune database
+Difference between rank and dense rank
+SQL Server , Service packs , cluster , alwayson, nirroring
+about clustering.
+Replication
+what is difference between cluster and non cluster index
+SQL - HOW TO DELETE DUPLICATE RECORDS BY KEEPING ONE ROW IN MAIN TABLE
+DIFFERENCE BETWEEN MERGE AND UNION ALL TRANSFORMATIONS?
+what is cross join
+concept of DWH
+Abt sql, joins, delete, drop, Truncate, unique n primary key foreign, some queries, abt database, cursor, trigger procedure, functions.
+what is recursive stored procedure and syntax?
+differnce between drop and truncate
+Explain oops concepts with Real time example? What is normalization?
+sql loader. How to truncate partition. error in extenal table. some scenario based external table and partition. and some query
+Indexing and partitioning strategies
+does deadlock occur in SQL 
+why hexaware
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 1. ### What is a Database
 
