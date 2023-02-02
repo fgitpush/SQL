@@ -110,66 +110,66 @@
 |102 | [Outer Join Across 3 Tables](#What--Single-Page-Application-in-Laravel) |
 |103 | [What is the difference between SQL and MySQL?](#What-are-Microservices-in-Laravel) |
 |104 | [What are the different subsets of SQL?](#what-is-CSRF-and-JWT-token) |
-|104 | [What do you mean by DBMS? What are its different types?](#what-is-CSRF-and-JWT-token) |
-|104 | [What do you mean by table and field in SQL?](#what-is-CSRF-and-JWT-token) |
-|104 | [What are joins in SQL?](#what-is-CSRF-and-JWT-token) |
-|104 | [What is the difference between CHAR and VARCHAR2 datatype in SQL?](#what-is-CSRF-and-JWT-token) |
-|104 | [What is the Primary key?](#what-is-CSRF-and-JWT-token) |
-|104 | [What are Constraints?](#what-is-CSRF-and-JWT-token) |
-|104 | [What is the difference between DELETE and TRUNCATE statements?](#what-is-CSRF-and-JWT-token) |
-|104 | [What is a Unique key?](#what-is-CSRF-and-JWT-token) |
-|104 | [How to break many:many relationship in 2 SQL tables?](#what-is-CSRF-and-JWT-token) |
-|104 | [SQL query to remove duplicate records](#what-is-CSRF-and-JWT-token) |
-|104 | [SQL query to count the occurrences of character 'R' in a string](#what-is-CSRF-and-JWT-token) |
-|104 | [What is Use of Partial View](#what-is-CSRF-and-JWT-token) |
-|104 | [Can you write SQL SPs?](#what-is-CSRF-and-JWT-token) |
-|104 | [How will you find out a third retweet using SQL - considering the database of twitter?](#what-is-CSRF-and-JWT-token) |
-|104 | [Find the second largest salary from the employee's table](#what-is-CSRF-and-JWT-token) |
-|104 | [SQL query consisting sets theory.](#what-is-CSRF-and-JWT-token) |
-|104 | [plsql](#what-is-CSRF-and-JWT-token) |
-|104 | [SDLC](#what-is-CSRF-and-JWT-token) |
-|104 | [Microstrategy Schema Designing](#what-is-CSRF-and-JWT-token) |
-|104 | [Redshift](#what-is-CSRF-and-JWT-token) |
-|104 | [Write an SQL querry to determine the third highest salary?](#what-is-CSRF-and-JWT-token) |
-|104 | [Transactions](#what-is-CSRF-and-JWT-token) |
-|104 | [ACID property](#what-is-CSRF-and-JWT-token) |
-|104 | [Data Warehouse](#what-is-CSRF-and-JWT-token) |
-|104 | [stored procedures vs functions](#what-is-CSRF-and-JWT-token) |
-|104 | [Business Intelligence](#what-is-CSRF-and-JWT-token) |
-|104 | [Trigger](#what-is-CSRF-and-JWT-token) |
-|104 | [Multirow functions](#what-is-CSRF-and-JWT-token) |
-|104 | [find top 10 employee by using DENSE RANK](#what-is-CSRF-and-JWT-token) |
-|104 | [Write a procedure to store all the data from a table to a collection table.](#what-is-CSRF-and-JWT-token) |
-|104 | [What are Aggregate functions](#what-is-CSRF-and-JWT-token) |
-|104 | [What is lazy writer.?](#what-is-CSRF-and-JWT-token) |
-|104 | [Calculate the no of exp of the employees from the joining date from table?](#what-is-CSRF-and-JWT-token) |
-|104 | [how to find out 1st highest salary](#what-is-CSRF-and-JWT-token) |
-|104 | [How will you retrieve the crashed database?](#what-is-CSRF-and-JWT-token) |
-|104 | [Out of n records the query to pickup 3 to 8 records from a table?](#what-is-CSRF-and-JWT-token) |
-|104 | [what are the recovery models?](#what-is-CSRF-and-JWT-token) |
-|104 | [Materialized Views](#what-is-CSRF-and-JWT-token) |
-|104 | [Whether once can drop an MV, if yes then what will happen to its table](#what-is-CSRF-and-JWT-token) |
-|104 | [Types of MV](#what-is-CSRF-and-JWT-token) |
-|104 | [Grants and Privileges](#what-is-CSRF-and-JWT-token) |
-|104 | [Synonyms](#what-is-CSRF-and-JWT-token) |
-|104 | [Autonomous Transactions](#what-is-CSRF-and-JWT-token) |
-|104 | [Parallel Hints](#what-is-CSRF-and-JWT-token) |
-|104 | [Benefits of Packages](#what-is-CSRF-and-JWT-token) |
-|104 | [Performance Tuning](#what-is-CSRF-and-JWT-token) |
-|104 | [how many types of subqueries](#what-is-CSRF-and-JWT-token) |
-|104 | [cursor](#what-is-CSRF-and-JWT-token) |
-|104 | [Group function ](#what-is-CSRF-and-JWT-token) |
-|104 | [Difference between where and having](#what-is-CSRF-and-JWT-token) |
-|104 | [If there is a table with a primary key would it be possible to create a clustered index on the table?](#what-is-CSRF-and-JWT-token) |
-|104 | [OLTP](#what-is-CSRF-and-JWT-token) |
-|104 | [OLAP](#what-is-CSRF-and-JWT-token) |
-|104 | [SSIS troubleshooting](#what-is-CSRF-and-JWT-token) |
-|104 | [Types of backup on SQL](#what-is-CSRF-and-JWT-token) |
-|104 | [how to load unstructured data in oracle tables?](#what-is-CSRF-and-JWT-token) |
-|104 | [what are all the DDL command ?](#what-is-CSRF-and-JWT-token) |
-|104 | [set operators](#what-is-CSRF-and-JWT-token) |
-|104 | [Find out the currently running task inside SSIS.](#what-is-CSRF-and-JWT-token) |
-|104 | [Explain differences between primary key and unique key](#what-is-CSRF-and-JWT-token) |
+|105 | [What do you mean by DBMS? What are its different types?](#what-is-CSRF-and-JWT-token) |
+|106 | [What do you mean by table and field in SQL?](#what-is-CSRF-and-JWT-token) |
+|107 | [What are joins in SQL?](#what-is-CSRF-and-JWT-token) |
+|108 | [What is the difference between CHAR and VARCHAR2 datatype in SQL?](#what-is-CSRF-and-JWT-token) |
+|109 | [What is the Primary key?](#what-is-CSRF-and-JWT-token) |
+|110 | [What are Constraints?](#what-is-CSRF-and-JWT-token) |
+|111 | [What is the difference between DELETE and TRUNCATE statements?](#what-is-CSRF-and-JWT-token) |
+|112 | [What is a Unique key?](#what-is-CSRF-and-JWT-token) |
+|113 | [How to break many:many relationship in 2 SQL tables?](#what-is-CSRF-and-JWT-token) |
+|114 | [SQL query to remove duplicate records](#what-is-CSRF-and-JWT-token) |
+|115 | [SQL query to count the occurrences of character 'R' in a string](#what-is-CSRF-and-JWT-token) |
+|116 | [What is Use of Partial View](#what-is-CSRF-and-JWT-token) |
+|117 | [Can you write SQL SPs?](#what-is-CSRF-and-JWT-token) |
+|118 | [How will you find out a third retweet using SQL - considering the database of twitter?](#what-is-CSRF-and-JWT-token) |
+|119 | [Find the second largest salary from the employee's table](#what-is-CSRF-and-JWT-token) |
+|120 | [SQL query consisting sets theory.](#what-is-CSRF-and-JWT-token) |
+|121 | [plsql](#what-is-CSRF-and-JWT-token) |
+|122 | [SDLC](#what-is-CSRF-and-JWT-token) |
+|123 | [Microstrategy Schema Designing](#what-is-CSRF-and-JWT-token) |
+|124 | [Redshift](#what-is-CSRF-and-JWT-token) |
+|125 | [Write an SQL querry to determine the third highest salary?](#what-is-CSRF-and-JWT-token) |
+|126 | [Transactions](#what-is-CSRF-and-JWT-token) |
+|127 | [ACID property](#what-is-CSRF-and-JWT-token) |
+|128 | [Data Warehouse](#what-is-CSRF-and-JWT-token) |
+|129 | [stored procedures vs functions](#what-is-CSRF-and-JWT-token) |
+|130 | [Business Intelligence](#what-is-CSRF-and-JWT-token) |
+|131 | [Trigger](#what-is-CSRF-and-JWT-token) |
+|132 | [Multirow functions](#what-is-CSRF-and-JWT-token) |
+|133 | [find top 10 employee by using DENSE RANK](#what-is-CSRF-and-JWT-token) |
+|134 | [Write a procedure to store all the data from a table to a collection table.](#what-is-CSRF-and-JWT-token) |
+|135 | [What are Aggregate functions](#what-is-CSRF-and-JWT-token) |
+|136 | [What is lazy writer.?](#what-is-CSRF-and-JWT-token) |
+|137 | [Calculate the no of exp of the employees from the joining date from table?](#what-is-CSRF-and-JWT-token) |
+|138 | [how to find out 1st highest salary](#what-is-CSRF-and-JWT-token) |
+|139 | [How will you retrieve the crashed database?](#what-is-CSRF-and-JWT-token) |
+|140 | [Out of n records the query to pickup 3 to 8 records from a table?](#what-is-CSRF-and-JWT-token) |
+|141 | [what are the recovery models?](#what-is-CSRF-and-JWT-token) |
+|142 | [Materialized Views](#what-is-CSRF-and-JWT-token) |
+|143 | [Whether once can drop an MV, if yes then what will happen to its table](#what-is-CSRF-and-JWT-token) |
+|144 | [Types of MV](#what-is-CSRF-and-JWT-token) |
+|145 | [Grants and Privileges](#what-is-CSRF-and-JWT-token) |
+|146 | [Synonyms](#what-is-CSRF-and-JWT-token) |
+|147 | [Autonomous Transactions](#what-is-CSRF-and-JWT-token) |
+|148 | [Parallel Hints](#what-is-CSRF-and-JWT-token) |
+|149 | [Benefits of Packages](#what-is-CSRF-and-JWT-token) |
+|150 | [Performance Tuning](#what-is-CSRF-and-JWT-token) |
+|151 | [how many types of subqueries](#what-is-CSRF-and-JWT-token) |
+|152 | [cursor](#what-is-CSRF-and-JWT-token) |
+|153 | [Group function ](#what-is-CSRF-and-JWT-token) |
+|154 | [Difference between where and having](#what-is-CSRF-and-JWT-token) |
+|156 | [If there is a table with a primary key would it be possible to create a clustered index on the table?](#what-is-CSRF-and-JWT-token) |
+|157 | [OLTP](#what-is-CSRF-and-JWT-token) |
+|158 | [OLAP](#what-is-CSRF-and-JWT-token) |
+|159 | [SSIS troubleshooting](#what-is-CSRF-and-JWT-token) |
+|160 | [Types of backup on SQL](#what-is-CSRF-and-JWT-token) |
+|161 | [how to load unstructured data in oracle tables?](#what-is-CSRF-and-JWT-token) |
+|162 | [what are all the DDL command ?](#what-is-CSRF-and-JWT-token) |
+|163 | [set operators](#what-is-CSRF-and-JWT-token) |
+|164 | [Find out the currently running task inside SSIS.](#what-is-CSRF-and-JWT-token) |
+|165 | [Explain differences between primary key and unique key](#what-is-CSRF-and-JWT-token) |
 
 
 why jda
