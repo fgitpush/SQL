@@ -173,7 +173,7 @@
 
 
 
-|| Joins (inner, outer, left, right)|
+|| [Joins (inner, outer, left, right)]|
 || Unions and unions all
 || Stored procedures
 ||Functions (scalar and table-valued)
