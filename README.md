@@ -170,11 +170,8 @@
 |163 | [set operators](#what-is-CSRF-and-JWT-token) |
 |164 | [Find out the currently running task inside SSIS.](#what-is-CSRF-and-JWT-token) |
 |165 | [Explain differences between primary key and unique key](#what-is-CSRF-and-JWT-token) |
-
-
-
-|| [Joins (inner, outer, left, right)]|
-|| Unions and unions all
+|| [Joins (inner, outer, left, right)](#)|
+|| Unions and unions all|(#)|
 || Stored procedures
 ||Functions (scalar and table-valued)
 || Triggers
