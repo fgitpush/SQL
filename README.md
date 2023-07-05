@@ -171,69 +171,71 @@
 |164 | [Find out the currently running task inside SSIS.](#what-is-CSRF-and-JWT-token) |
 |165 | [Explain differences between primary key and unique key](#what-is-CSRF-and-JWT-token) |
 
-* Joins (inner, outer, left, right)
-* Unions and unions all
-* Stored procedures
-* Functions (scalar and table-valued)
-* Triggers
-* Data manipulation language (DML)
-* Data definition language (DDL)
-* Data control language (DCL)
-* Transactions and concurrency control
-* ACID (Atomicity, Consistency, Isolation, Durability) properties
-* Logical and physical database design
-* Entity-relationship modeling
-* Normalization techniques (1NF, 2NF, 3NF)
-* Data integrity constraints (primary keys, foreign keys, unique constraints)
-* Referential integrity
-* Query optimization
-* Query execution plans
-* Query hints and optimizer directives
-* Index optimization and covering indexes
-* EXPLAIN statement and query profiling
-* Partitioning and sharding
-* Replication and high availability
-* Load balancing and clustering
-* Failover and disaster recovery
-* Backup and restore strategies
-* User authentication and authorization
-* Access control and privileges
-* Encryption and data security
-* Auditing and logging
-* Performance tuning tools (EXPLAIN, SHOW STATUS, etc.)
-* Connection pooling
-* Locking and deadlock detection
-* Query caching and result caching
-* Full-text search
-* Spatial data and GIS applications
-* Performance monitoring and troubleshooting
-* Performance optimization techniques (query rewriting, denormalization, etc.)
-* Data warehousing and OLAP (Online Analytical Processing)
-* Database schema versioning and migration
-* Advanced backup and recovery strategies (point-in-time recovery, incremental backups)
-* Database compression and storage optimization
-* Query rewriting and query hints
-* Database monitoring and alerting
-* Database auditing and compliance
-* Database replication conflict resolution
-* Advanced locking and isolation levels
-* Advanced MySQL configuration and optimization settings
-* Views
-* Triggers
-* Computed Columns
-* Stored Procedures
-* User Defined Functions
-* Transaction
-* Ranking Functions
-* Aggregate Functions
-* Prebuilt non-aggregate functions
-* XML to SQL parsing
-* Partitions
-* Dynamic Queries
-* Joins
-* Database normalization
-* Indexing strategies
-* Subqueries
+
+
+|| Joins (inner, outer, left, right)|
+|| Unions and unions all
+|| Stored procedures
+||Functions (scalar and table-valued)
+|| Triggers
+|| Data manipulation language (DML)
+|| Data definition language (DDL)
+|| Data control language (DCL)
+|| Transactions and concurrency control
+|| ACID (Atomicity, Consistency, Isolation, Durability) properties
+|| Logical and physical database design
+|| Entity-relationship modeling
+|| Normalization techniques (1NF, 2NF, 3NF)
+|| Data integrity constraints (primary keys, foreign keys, unique constraints)
+|| Referential integrity
+|| Query optimization
+|| Query execution plans
+|| Query hints and optimizer directives
+|| Index optimization and covering indexes
+|| EXPLAIN statement and query profiling
+|| Partitioning and sharding
+|| Replication and high availability
+|| Load balancing and clustering
+|| Failover and disaster recovery
+|| Backup and restore strategies
+|| User authentication and authorization
+|| Access control and privileges
+|| Encryption and data security
+|| Auditing and logging
+|| Performance tuning tools (EXPLAIN, SHOW STATUS, etc.)
+|| Connection pooling
+|| Locking and deadlock detection
+|| Query caching and result caching
+|| Full-text search
+|| Spatial data and GIS applications
+|| Performance monitoring and troubleshooting
+|| Performance optimization techniques (query rewriting, denormalization, etc.)
+|| Data warehousing and OLAP (Online Analytical Processing)
+|| Database schema versioning and migration
+|| Advanced backup and recovery strategies (point-in-time recovery, incremental backups)
+|| Database compression and storage optimization
+|| Query rewriting and query hints|
+|| Database monitoring and alerting|
+|| Database auditing and compliance|
+|| Database replication conflict resolution|
+|| Advanced locking and isolation levels|
+|| Advanced MySQL configuration and optimization settings|
+|| Views|
+|| Triggers|
+|| Computed Columns|
+|| Stored Procedures|
+|| User Defined Functions|
+|| Transaction|
+|| Ranking Functions|
+|| Aggregate Functions|
+|| Prebuilt non-aggregate functions|
+|| XML to SQL parsing|
+|| Partitions|
+|| Dynamic Queries|
+|| Joins|
+|| Database normalization|
+|| Indexing strategies|
+|| Subqueries|
 
 
 
