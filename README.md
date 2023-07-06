@@ -233,14 +233,14 @@
 || Database normalization|
 || Indexing strategies|
 || Subqueries|
-why jda
-how many type of ALWAYSON IN SQL
-Azure Migration
-How will you construct the database for 1000 users and what its size?
-collection
-SQL Loader
-Merge statement
-Differ bw view nd alias name
+||why jda|
+||how many type of ALWAYSON IN SQL|
+||Azure Migration|
+||How will you construct the database for 1000 users and what its size?|
+||collection|
+||SQL Loader|
+||Merge statement|
+||Differ bw view nd alias name|
 PIVOT table
 DML and DDL command
 Types of joints in sql server
