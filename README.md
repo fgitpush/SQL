@@ -6,170 +6,170 @@
 
 | No. | Questions |
 | --- | --------- |
-|1  | [SELECT](#why-laravel) |
-|2  | [UPDATE](#why-laravel) |
-|3  | [DELETE](#why-laravel) |
-|4  | [INSERT](#why-laravel) |
-|5  | [JOIN](#why-laravel) |
-|6  | [UNION](#why-laravel) |
-|7  | [SELECT DISTINCT](#why-laravel) |
-|8  | [WHERE](#why-laravel) |
-|9  | [AND](#why-laravel) |
-|10  | [OR](#why-laravel) |
-|11 | [NOT](#why-laravel) |
-|12  | [SELECT TOP](#why-laravel) |
-|13  | [MIN](#why-laravel) |
-|14  | [MAX](#why-laravel) |
-|15  | [COUNT](#why-laravel) |
-|16  | [AVG](#why-laravel) |
-|17  | [SUM](#why-laravel) |
-|18  | [LIKE](#why-laravel) |
-|19  | [Wildcards](#why-laravel) |
-|20  | [In](#why-laravel) |
-|21  | [Between](#why-laravel) |
-|22  | [Alias](#why-laravel) |
-|23  | [Inner Join](#why-laravel) |
-|24  | [Left Join](#why-laravel) |
-|25  | [Right Join](#why-laravel) |
-|26  | [Full Join](#why-laravel) |
-|27  | [Self Join](#why-laravel) |
-|28  | [Group By](#why-laravel) |
-|29  | [Having](#why-laravel) |
-|30  | [Exists](#why-laravel) |
-|31  | [All](#why-laravel) |
-|32  | [Any](#why-laravel) |
-|33  | [SELECT INTO](#why-laravel) |
-|34  | [INSERT INTO SELECT](#why-laravel) |
-|35  | [NULL FUNCTIONS](#why-laravel) |
-|36  | [STORED PROCEDURES](#why-laravel) |
-|37  | [COMMENTS](#why-laravel) |
-|38  | [OPERATIONS](#why-laravel) |
-|39  | [SQL Create DB](#why-laravel) |
-|40  | [SQL Drop DB](#why-laravel) |
-|41  | [SQL Backup DB](#why-laravel) |
-|42  | [SQL Create Table](#why-laravel) |
-|43  | [SQL Drop Table](#why-laravel) |
-|44  | [SQL Alter Table](#why-laravel) |
-|45  | [SQL Constraints](#why-laravel) |
-|46  | [SQL Not Null](#why-laravel) |
-|47  | [SQL Unique](#why-laravel) |
-|48  | [SQL Primary Key](#why-laravel) |
-|49  | [SQL Foreign Key](#why-laravel) |
-|50  | [SQL Check](#why-laravel) |
-|51  | [SQL Default](#why-laravel) |
-|52  | [SQL Index](#why-laravel) |
-|53  | [SQL Auto Increment](#why-laravel) |
-|54  | [SQL Dates](#why-laravel) |
-|55  | [SQL Views](#why-laravel) |
-|56  | [SQL Injection](#why-laravel) |
-|57  | [SQL Hosting](#why-laravel) |
-|58  | [SQL Data Types](#why-laravel) |
-|59  | [What is a Database?](#why-laravel) |
-|60  | [What is a Relational Database?](#php-inheritance) |
-|61  | [What is RDBMS?](#what-is-dependency-manager) |
-|62  | [Introduction to SQL](#what-is-api-php) |
-|63  | [Naming Conventions](#what-is-channels-php) |
-|64 | [Data Integrity](#what-is-console-php) |
-|65  | [Database Terms](#what-is-controller) |
-|66  | [Atomic Values](#what-are-views) |
-|67  | [Relationships](#what-is-a-model) |
-|68  | [One-to-One Relationships](#what-is-request-response) |
-|69  | [One-to-Many Relationships](#what-are-migrations) |
-|70  | [Many-to-Many Relationships](#what-are-seeders) |
-|71  | [Designing One-to-One Relationships](#what-are-service-providers) |
-|72  | [Designing One-to-Many Relationships](#what-is-middleware) |
-|73 | [Parent Tables and Child Tables](#what-is-orm) |
-|74 | [Designing Many-to-Many Relationships](#what-is-eloquent) |
-|75 | [Introduction to Keys](#what-is-query-builder)
-|76 | [Primary Key Index](#what-are-facades) |
-|77 | [Look up Table](#what-is-repository-pattern) |
-|78 | [Superkey and Candidate Key](#What-is-Authentication-using-Passport-CSRF-XSRF) |
-|79 | [Primary Key and Alternate Key](#what-is-unit-testing) |
-|80 | [Surrogate Key and Natural Key](#what-is-caching) |
-|81 | [Should I use Surrogate Keys or Natural Keys?](#how-to-setup-emails) |
-|82 | [Foreign Key](#what-are-queues) |
-|83 | [NOT NULL Foreign Key](#what-are-jobs)
-|84 | [Foreign Key Constraints](#what-are-advanced-eloquent-and-query-builder) |
-|85 | [Simple Key, Composite Key, Compound Key](#which-is-error-management) |
-|86 | [Review and Key Points....HA GET IT? KEY points](#how-to-create-an-api) |
-|87 | [Introduction to Entity Relationship Modeling](#what-are-events) |
-|88 | [Cardinality](#what-are-listeners) |
-|89 | [Modality](#what-are-payments-and-cashier) |
-|90 | [Introduction to Database Normalization](#what-is-test-driven-development) |
-|91 | [1NF (First Normal Form of Database Normalization)](#what-is-package-development) |
-|92 | [2NF (Second Normal Form of Database Normalization)](#what-are-laravel-scout-search-and-algolia) |
-|93 | [3NF (Third Normal Form of Database Normalization)](#what-is-socialite-auth) |
-|94 | [Indexes (Clustered, Nonclustered, Composite Index)](#what-is-vue-js) |
-|95 | [Data Types](#How-to-connect-Laravel-with-other-SQL-databases) |
-|96 | [Introduction to Joins](#How-to-connect-Laravel-with-non-SQL-databases) |
-|97 | [Inner Join](#what-is-lumen) |
-|98 | [Inner Join on 3 Tables](#what-is-redis) |
-|99 | [Introduction to Outer Joins](#what-is-memcache) |
-|100 | [Right Outer Join](#What-is-Horizontal-scaling) |
-|101 | [JOIN with NOT NULL Columns](#What-is-Vertical-scaling) |
-|102 | [Outer Join Across 3 Tables](#What--Single-Page-Application-in-Laravel) |
-|103 | [What is the difference between SQL and MySQL?](#What-are-Microservices-in-Laravel) |
-|104 | [What are the different subsets of SQL?](#what-is-CSRF-and-JWT-token) |
-|105 | [What do you mean by DBMS? What are its different types?](#what-is-CSRF-and-JWT-token) |
-|106 | [What do you mean by table and field in SQL?](#what-is-CSRF-and-JWT-token) |
-|107 | [What are joins in SQL?](#what-is-CSRF-and-JWT-token) |
-|108 | [What is the difference between CHAR and VARCHAR2 datatype in SQL?](#what-is-CSRF-and-JWT-token) |
-|109 | [What is the Primary key?](#what-is-CSRF-and-JWT-token) |
-|110 | [What are Constraints?](#what-is-CSRF-and-JWT-token) |
-|111 | [What is the difference between DELETE and TRUNCATE statements?](#what-is-CSRF-and-JWT-token) |
-|112 | [What is a Unique key?](#what-is-CSRF-and-JWT-token) |
-|113 | [How to break many:many relationship in 2 SQL tables?](#what-is-CSRF-and-JWT-token) |
-|114 | [SQL query to remove duplicate records](#what-is-CSRF-and-JWT-token) |
-|115 | [SQL query to count the occurrences of character 'R' in a string](#what-is-CSRF-and-JWT-token) |
-|116 | [What is Use of Partial View](#what-is-CSRF-and-JWT-token) |
-|117 | [Can you write SQL SPs?](#what-is-CSRF-and-JWT-token) |
-|118 | [How will you find out a third retweet using SQL - considering the database of twitter?](#what-is-CSRF-and-JWT-token) |
-|119 | [Find the second largest salary from the employee's table](#what-is-CSRF-and-JWT-token) |
-|120 | [SQL query consisting sets theory.](#what-is-CSRF-and-JWT-token) |
-|121 | [plsql](#what-is-CSRF-and-JWT-token) |
-|122 | [SDLC](#what-is-CSRF-and-JWT-token) |
-|123 | [Microstrategy Schema Designing](#what-is-CSRF-and-JWT-token) |
-|124 | [Redshift](#what-is-CSRF-and-JWT-token) |
-|125 | [Write an SQL querry to determine the third highest salary?](#what-is-CSRF-and-JWT-token) |
-|126 | [Transactions](#what-is-CSRF-and-JWT-token) |
-|127 | [ACID property](#what-is-CSRF-and-JWT-token) |
-|128 | [Data Warehouse](#what-is-CSRF-and-JWT-token) |
-|129 | [stored procedures vs functions](#what-is-CSRF-and-JWT-token) |
-|130 | [Business Intelligence](#what-is-CSRF-and-JWT-token) |
-|131 | [Trigger](#what-is-CSRF-and-JWT-token) |
-|132 | [Multirow functions](#what-is-CSRF-and-JWT-token) |
-|133 | [find top 10 employee by using DENSE RANK](#what-is-CSRF-and-JWT-token) |
-|134 | [Write a procedure to store all the data from a table to a collection table.](#what-is-CSRF-and-JWT-token) |
-|135 | [What are Aggregate functions](#what-is-CSRF-and-JWT-token) |
-|136 | [What is lazy writer.?](#what-is-CSRF-and-JWT-token) |
-|137 | [Calculate the no of exp of the employees from the joining date from table?](#what-is-CSRF-and-JWT-token) |
-|138 | [how to find out 1st highest salary](#what-is-CSRF-and-JWT-token) |
-|139 | [How will you retrieve the crashed database?](#what-is-CSRF-and-JWT-token) |
-|140 | [Out of n records the query to pickup 3 to 8 records from a table?](#what-is-CSRF-and-JWT-token) |
-|141 | [what are the recovery models?](#what-is-CSRF-and-JWT-token) |
-|142 | [Materialized Views](#what-is-CSRF-and-JWT-token) |
-|143 | [Whether once can drop an MV, if yes then what will happen to its table](#what-is-CSRF-and-JWT-token) |
-|144 | [Types of MV](#what-is-CSRF-and-JWT-token) |
-|145 | [Grants and Privileges](#what-is-CSRF-and-JWT-token) |
-|146 | [Synonyms](#what-is-CSRF-and-JWT-token) |
-|147 | [Autonomous Transactions](#what-is-CSRF-and-JWT-token) |
-|148 | [Parallel Hints](#what-is-CSRF-and-JWT-token) |
-|149 | [Benefits of Packages](#what-is-CSRF-and-JWT-token) |
-|150 | [Performance Tuning](#what-is-CSRF-and-JWT-token) |
-|151 | [how many types of subqueries](#what-is-CSRF-and-JWT-token) |
-|152 | [cursor](#what-is-CSRF-and-JWT-token) |
-|153 | [Group function ](#what-is-CSRF-and-JWT-token) |
-|154 | [Difference between where and having](#what-is-CSRF-and-JWT-token) |
-|156 | [If there is a table with a primary key would it be possible to create a clustered index on the table?](#what-is-CSRF-and-JWT-token) |
-|157 | [OLTP](#what-is-CSRF-and-JWT-token) |
-|158 | [OLAP](#what-is-CSRF-and-JWT-token) |
-|159 | [SSIS troubleshooting](#what-is-CSRF-and-JWT-token) |
-|160 | [Types of backup on SQL](#what-is-CSRF-and-JWT-token) |
-|161 | [how to load unstructured data in oracle tables?](#what-is-CSRF-and-JWT-token) |
-|162 | [what are all the DDL command ?](#what-is-CSRF-and-JWT-token) |
-|163 | [set operators](#what-is-CSRF-and-JWT-token) |
-|164 | [Find out the currently running task inside SSIS.](#what-is-CSRF-and-JWT-token) |
-|165 | [Explain differences between primary key and unique key](#what-is-CSRF-and-JWT-token) |
+| | [SELECT](#why-laravel) |
+|  | [UPDATE](#why-laravel) |
+| | [DELETE](#why-laravel) |
+| | [INSERT](#why-laravel) |
+|  | [JOIN](#why-laravel) |
+|  | [UNION](#why-laravel) |
+| | [SELECT DISTINCT](#why-laravel) |
+|  | [WHERE](#why-laravel) |
+|  | [AND](#why-laravel) |
+|  | [OR](#why-laravel) |
+| | [NOT](#why-laravel) |
+|  | [SELECT TOP](#why-laravel) |
+|  | [MIN](#why-laravel) |
+|  | [MAX](#why-laravel) |
+|| [COUNT](#why-laravel) |
+|  | [AVG](#why-laravel) |
+|  | [SUM](#why-laravel) |
+|  | [LIKE](#why-laravel) |
+|  | [Wildcards](#why-laravel) |
+|  | [In](#why-laravel) |
+|  | [Between](#why-laravel) |
+|  | [Alias](#why-laravel) |
+|  | [Inner Join](#why-laravel) |
+|  | [Left Join](#why-laravel) |
+|  | [Right Join](#why-laravel) |
+|  | [Full Join](#why-laravel) |
+|  | [Self Join](#why-laravel) |
+|  | [Group By](#why-laravel) |
+|  | [Having](#why-laravel) |
+|  | [Exists](#why-laravel) |
+|  | [All](#why-laravel) |
+|  | [Any](#why-laravel) |
+|  | [SELECT INTO](#why-laravel) |
+|  | [INSERT INTO SELECT](#why-laravel) |
+|  | [NULL FUNCTIONS](#why-laravel) |
+|  | [STORED PROCEDURES](#why-laravel) |
+|  | [COMMENTS](#why-laravel) |
+|  | [OPERATIONS](#why-laravel) |
+|  | [SQL Create DB](#why-laravel) |
+|  | [SQL Drop DB](#why-laravel) |
+|  | [SQL Backup DB](#why-laravel) |
+|  | [SQL Create Table](#why-laravel) |
+|  | [SQL Drop Table](#why-laravel) |
+|  | [SQL Alter Table](#why-laravel) |
+|  | [SQL Constraints](#why-laravel) |
+|  | [SQL Not Null](#why-laravel) |
+|  | [SQL Unique](#why-laravel) |
+|  | [SQL Primary Key](#why-laravel) |
+|  | [SQL Foreign Key](#why-laravel) |
+|  | [SQL Check](#why-laravel) |
+|  | [SQL Default](#why-laravel) |
+|  | [SQL Index](#why-laravel) |
+|  | [SQL Auto Increment](#why-laravel) |
+|  | [SQL Dates](#why-laravel) |
+|  | [SQL Views](#why-laravel) |
+|  | [SQL Injection](#why-laravel) |
+|  | [SQL Hosting](#why-laravel) |
+|  | [SQL Data Types](#why-laravel) |
+|  | [What is a Database?](#why-laravel) |
+|  | [What is a Relational Database?](#php-inheritance) |
+|  | [What is RDBMS?](#what-is-dependency-manager) |
+|  | [Introduction to SQL](#what-is-api-php) |
+|  | [Naming Conventions](#what-is-channels-php) |
+| | [Data Integrity](#what-is-console-php) |
+|  | [Database Terms](#what-is-controller) |
+|  | [Atomic Values](#what-are-views) |
+|  | [Relationships](#what-is-a-model) |
+|  | [One-to-One Relationships](#what-is-request-response) |
+|  | [One-to-Many Relationships](#what-are-migrations) |
+|  | [Many-to-Many Relationships](#what-are-seeders) |
+|  | [Designing One-to-One Relationships](#what-are-service-providers) |
+|  | [Designing One-to-Many Relationships](#what-is-middleware) |
+| | [Parent Tables and Child Tables](#what-is-orm) |
+| | [Designing Many-to-Many Relationships](#what-is-eloquent) |
+| | [Introduction to Keys](#what-is-query-builder)
+| | [Primary Key Index](#what-are-facades) |
+| | [Look up Table](#what-is-repository-pattern) |
+| | [Superkey and Candidate Key](#What-is-Authentication-using-Passport-CSRF-XSRF) |
+| | [Primary Key and Alternate Key](#what-is-unit-testing) |
+| | [Surrogate Key and Natural Key](#what-is-caching) |
+| | [Should I use Surrogate Keys or Natural Keys?](#how-to-setup-emails) |
+| | [Foreign Key](#what-are-queues) |
+| | [NOT NULL Foreign Key](#what-are-jobs)
+| | [Foreign Key Constraints](#what-are-advanced-eloquent-and-query-builder) |
+| | [Simple Key, Composite Key, Compound Key](#which-is-error-management) |
+| | [Review and Key Points....HA GET IT? KEY points](#how-to-create-an-api) |
+| | [Introduction to Entity Relationship Modeling](#what-are-events) |
+| | [Cardinality](#what-are-listeners) |
+| | [Modality](#what-are-payments-and-cashier) |
+| | [Introduction to Database Normalization](#what-is-test-driven-development) |
+| | [1NF (First Normal Form of Database Normalization)](#what-is-package-development) |
+| | [2NF (Second Normal Form of Database Normalization)](#what-are-laravel-scout-search-and-algolia) |
+| | [3NF (Third Normal Form of Database Normalization)](#what-is-socialite-auth) |
+| | [Indexes (Clustered, Nonclustered, Composite Index)](#what-is-vue-js) |
+| | [Data Types](#How-to-connect-Laravel-with-other-SQL-databases) |
+| | [Introduction to Joins](#How-to-connect-Laravel-with-non-SQL-databases) |
+| | [Inner Join](#what-is-lumen) |
+| | [Inner Join on 3 Tables](#what-is-redis) |
+| | [Introduction to Outer Joins](#what-is-memcache) |
+| | [Right Outer Join](#What-is-Horizontal-scaling) |
+| | [JOIN with NOT NULL Columns](#What-is-Vertical-scaling) |
+| | [Outer Join Across 3 Tables](#What--Single-Page-Application-in-Laravel) |
+| | [What is the difference between SQL and MySQL?](#What-are-Microservices-in-Laravel) |
+| | [What are the different subsets of SQL?](#what-is-CSRF-and-JWT-token) |
+| | [What do you mean by DBMS? What are its different types?](#what-is-CSRF-and-JWT-token) |
+| | [What do you mean by table and field in SQL?](#what-is-CSRF-and-JWT-token) |
+| | [What are joins in SQL?](#what-is-CSRF-and-JWT-token) |
+| | [What is the difference between CHAR and VARCHAR2 datatype in SQL?](#what-is-CSRF-and-JWT-token) |
+| | [What is the Primary key?](#what-is-CSRF-and-JWT-token) |
+| | [What are Constraints?](#what-is-CSRF-and-JWT-token) |
+| | [What is the difference between DELETE and TRUNCATE statements?](#what-is-CSRF-and-JWT-token) |
+| | [What is a Unique key?](#what-is-CSRF-and-JWT-token) |
+| | [How to break many:many relationship in 2 SQL tables?](#what-is-CSRF-and-JWT-token) |
+| | [SQL query to remove duplicate records](#what-is-CSRF-and-JWT-token) |
+| | [SQL query to count the occurrences of character 'R' in a string](#what-is-CSRF-and-JWT-token) |
+| | [What is Use of Partial View](#what-is-CSRF-and-JWT-token) |
+| | [Can you write SQL SPs?](#what-is-CSRF-and-JWT-token) |
+| | [How will you find out a third retweet using SQL - considering the database of twitter?](#what-is-CSRF-and-JWT-token) |
+| | [Find the second largest salary from the employee's table](#what-is-CSRF-and-JWT-token) |
+| | [SQL query consisting sets theory.](#what-is-CSRF-and-JWT-token) |
+| | [plsql](#what-is-CSRF-and-JWT-token) |
+| | [SDLC](#what-is-CSRF-and-JWT-token) |
+| | [Microstrategy Schema Designing](#what-is-CSRF-and-JWT-token) |
+| | [Redshift](#what-is-CSRF-and-JWT-token) |
+| | [Write an SQL querry to determine the third highest salary?](#what-is-CSRF-and-JWT-token) |
+| | [Transactions](#what-is-CSRF-and-JWT-token) |
+| | [ACID property](#what-is-CSRF-and-JWT-token) |
+| | [Data Warehouse](#what-is-CSRF-and-JWT-token) |
+| | [stored procedures vs functions](#what-is-CSRF-and-JWT-token) |
+| | [Business Intelligence](#what-is-CSRF-and-JWT-token) |
+| | [Trigger](#what-is-CSRF-and-JWT-token) |
+| | [Multirow functions](#what-is-CSRF-and-JWT-token) |
+| | [find top 10 employee by using DENSE RANK](#what-is-CSRF-and-JWT-token) |
+| | [Write a procedure to store all the data from a table to a collection table.](#what-is-CSRF-and-JWT-token) |
+| | [What are Aggregate functions](#what-is-CSRF-and-JWT-token) |
+| | [What is lazy writer.?](#what-is-CSRF-and-JWT-token) |
+| | [Calculate the no of exp of the employees from the joining date from table?](#what-is-CSRF-and-JWT-token) |
+| | [how to find out 1st highest salary](#what-is-CSRF-and-JWT-token) |
+| | [How will you retrieve the crashed database?](#what-is-CSRF-and-JWT-token) |
+| | [Out of n records the query to pickup 3 to 8 records from a table?](#what-is-CSRF-and-JWT-token) |
+| | [what are the recovery models?](#what-is-CSRF-and-JWT-token) |
+| | [Materialized Views](#what-is-CSRF-and-JWT-token) |
+| | [Whether once can drop an MV, if yes then what will happen to its table](#what-is-CSRF-and-JWT-token) |
+| | [Types of MV](#what-is-CSRF-and-JWT-token) |
+| | [Grants and Privileges](#what-is-CSRF-and-JWT-token) |
+| | [Synonyms](#what-is-CSRF-and-JWT-token) |
+| | [Autonomous Transactions](#what-is-CSRF-and-JWT-token) |
+| | [Parallel Hints](#what-is-CSRF-and-JWT-token) |
+| | [Benefits of Packages](#what-is-CSRF-and-JWT-token) |
+| | [Performance Tuning](#what-is-CSRF-and-JWT-token) |
+| | [how many types of subqueries](#what-is-CSRF-and-JWT-token) |
+| | [cursor](#what-is-CSRF-and-JWT-token) |
+| | [Group function ](#what-is-CSRF-and-JWT-token) |
+| | [Difference between where and having](#what-is-CSRF-and-JWT-token) |
+| | [If there is a table with a primary key would it be possible to create a clustered index on the table?](#what-is-CSRF-and-JWT-token) |
+| | [OLTP](#what-is-CSRF-and-JWT-token) |
+| | [OLAP](#what-is-CSRF-and-JWT-token) |
+| | [SSIS troubleshooting](#what-is-CSRF-and-JWT-token) |
+| | [Types of backup on SQL](#what-is-CSRF-and-JWT-token) |
+| | [how to load unstructured data in oracle tables?](#what-is-CSRF-and-JWT-token) |
+| | [what are all the DDL command ?](#what-is-CSRF-and-JWT-token) |
+| | [set operators](#what-is-CSRF-and-JWT-token) |
+| | [Find out the currently running task inside SSIS.](#what-is-CSRF-and-JWT-token) |
+| | [Explain differences between primary key and unique key](#what-is-CSRF-and-JWT-token) |
 || [Joins (inner, outer, left, right)](#)|
 || Unions and unions all|(#)|
 || Stored procedures
