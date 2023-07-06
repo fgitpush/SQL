@@ -233,9 +233,6 @@
 || Database normalization|
 || Indexing strategies|
 || Subqueries|
-
-
-
 why jda
 how many type of ALWAYSON IN SQL
 Azure Migration
@@ -309,69 +306,22 @@ Overview of Azure data factory and it's use.
 Plsql - collections, bulk collect SQL -truncate function with dates, logical sql queries Data base modeling Performance tuning
 Same questions, queries asked in each round
 what are views
-
 what is index
-
 SQL Joins, Aggregation functions, substring, sql queries based on the interviewer's conditions, Java oops concepts, Normalisation- removing redundancy, small puzzles
-
 What different are the Constraints used on Table Columns in SQL?
-
 questions on join,types of join,view,unique key, some basic question query was lyk, write a query to display 3rd highest salary of employee
-
-
 Difference between a view and materialized view? Can we modify a view? if any view is modifiable? Difference between PLSQL table and Varray? Have you ever used utl_file package? Write a program to bulk insert into a table using FORALL ? Find the 2nd highest salary of an employee? Difference between procedure and function
-
-
 high availability concepts
-
-
-
 Difference between truncate and delete write query to get third maximum salary. write query to get all employee belonging to sales department having salary > 20000. what is view ? what is trigger?
-
 sql joins, constraints, normalization etc
-
-
 Difference between Procedures and Functions?
-
-
 WHAT ARE DIFF JOINS IN SQL? & EXPLAIN CARTISIAN JOIN.
-
 Olap vs oltp
-
 what is difference between union and union all?
-
 can primary key have null value?
-
-
 types of SDLC
-
-types of SDLC
-
 Clustered and Non-clustered indexes.
-
 Difference between ASM and ADDR report
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 1. ### What is a Database
 
