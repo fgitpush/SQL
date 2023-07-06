@@ -1,4 +1,4 @@
-# SQL
+# SQL Interview Questions Wiki (+300 Questions)
 
 > Click :star: if you like the project. Pull Request are highly appreciated.
 
