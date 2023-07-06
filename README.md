@@ -248,7 +248,7 @@
 ||case|
 ||analytical functions|
 ||What is the output of SUM(NULL)?|
-|indexing|
+||indexing|
 ||partitioning|
 ||How to optimize query ?|
 ||Basic questions like rank, dense rank union and collection concepts|
