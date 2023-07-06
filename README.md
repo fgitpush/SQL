@@ -241,87 +241,87 @@
 ||SQL Loader|
 ||Merge statement|
 ||Differ bw view nd alias name|
-PIVOT table
-DML and DDL command
-Types of joints in sql server
-bitmap index
-case
-analytical functions
-What is the output of SUM(NULL)?
-indexing
-partitioning
-How to optimize query ?
-Basic questions like rank, dense rank union and collection concepts
-How would you reset a sequence in Oracle
-Write query to retrive the salary and the employee name from the table employee and salary table.
-what is private and public specifier related to package
-SQL Tuning and Replication
-Normalization
-floor and ceil functions
-constraints
-how to restore master database.
-What is truncate in sql?
-Find Cumulative sum
-how to resolve deadlock in mysql
-.net page lifecycle,MPFL,firewalls,sql proc,UDF,Delegates,Authenticatuion ,authorization
-basic SQL query for first 5 record in list
-Types of SQL statement
-Explain SDLC Explain normalisation? Sub queries?
-Write a query to find Second highest salary from employee table? and many more.....
-delete row 3 with primary key ... add row 3 again but it should come exactly at the place of previously deleted 3
-Apti reasoning
-What is a default constraint? Explain with an example.
-What do you understand by a Character Manipulation function?
-high availibility planing
-sidaster
-how to tune database
-Difference between rank and dense rank
-SQL Server , Service packs , cluster , alwayson, nirroring
-about clustering.
-Replication
-what is difference between cluster and non cluster index
-SQL - HOW TO DELETE DUPLICATE RECORDS BY KEEPING ONE ROW IN MAIN TABLE
-DIFFERENCE BETWEEN MERGE AND UNION ALL TRANSFORMATIONS?
-what is cross join
-concept of DWH
-Abt sql, joins, delete, drop, Truncate, unique n primary key foreign, some queries, abt database, cursor, trigger procedure, functions.
-what is recursive stored procedure and syntax?
-differnce between drop and truncate
-Explain oops concepts with Real time example? What is normalization?
-sql loader. How to truncate partition. error in extenal table. some scenario based external table and partition. and some query
-Indexing and partitioning strategies
-does deadlock occur in SQL 
-why hexaware
-join,transaction,lock,block,deadlock
-Quries , Remove duplicates with different functionalities , quest based on analytical functions , rank , desk rank , first , last ,grouping
-log shipping, mirroring, clustering, Always on
-SQL Replication questions, Question on HADR like Mirroring , logshipping and Always On. SQL performance related question
-Normalization and its types.Trigger and its types.diff bet Procedure and Function.Constraints.Use of Primary key and Foreign key.some Real time example for above concepts
-How to create a compound trigger?
-basics of SQL, SQL performances,SSIR,SSRS,SQL Quries
-WHAT IS CHECKPOINT AND WHAT ARE CONFIG OPTIONS AVAILABLE?
-What is referential integrity
-SQL: joins, constraints, clauses, identity column
-Overview of Azure data factory and it's use.
-Plsql - collections, bulk collect SQL -truncate function with dates, logical sql queries Data base modeling Performance tuning
-Same questions, queries asked in each round
-what are views
-what is index
-SQL Joins, Aggregation functions, substring, sql queries based on the interviewer's conditions, Java oops concepts, Normalisation- removing redundancy, small puzzles
-What different are the Constraints used on Table Columns in SQL?
-questions on join,types of join,view,unique key, some basic question query was lyk, write a query to display 3rd highest salary of employee
-Difference between a view and materialized view? Can we modify a view? if any view is modifiable? Difference between PLSQL table and Varray? Have you ever used utl_file package? Write a program to bulk insert into a table using FORALL ? Find the 2nd highest salary of an employee? Difference between procedure and function
-high availability concepts
-Difference between truncate and delete write query to get third maximum salary. write query to get all employee belonging to sales department having salary > 20000. what is view ? what is trigger?
-sql joins, constraints, normalization etc
-Difference between Procedures and Functions?
-WHAT ARE DIFF JOINS IN SQL? & EXPLAIN CARTISIAN JOIN.
-Olap vs oltp
-what is difference between union and union all?
-can primary key have null value?
-types of SDLC
-Clustered and Non-clustered indexes.
-Difference between ASM and ADDR report
+||PIVOT table|
+||DML and DDL command|
+||Types of joints in sql server|
+||bitmap index|
+||case|
+||analytical functions|
+||What is the output of SUM(NULL)?|
+|indexing|
+||partitioning|
+||How to optimize query ?|
+||Basic questions like rank, dense rank union and collection concepts|
+||How would you reset a sequence in Oracle|
+||Write query to retrive the salary and the employee name from the table employee and salary table.|
+||what is private and public specifier related to package|
+||SQL Tuning and Replication|
+||Normalization|
+||floor and ceil functions|
+||constraints|
+||how to restore master database.|
+||What is truncate in sql?|
+||Find Cumulative sum|
+||how to resolve deadlock in mysql|
+||.net page lifecycle,MPFL,firewalls,sql proc,UDF,Delegates,Authenticatuion ,authorization|
+||basic SQL query for first 5 record in list|
+||Types of SQL statement|
+||Explain SDLC Explain normalisation? Sub queries?|
+||Write a query to find Second highest salary from employee table? and many more.....|
+||delete row 3 with primary key ... add row 3 again but it should come exactly at the place of previously deleted 3|
+||Apti reasoning|
+||What is a default constraint? Explain with an example.|
+||What do you understand by a Character Manipulation function?|
+||high availibility planing|
+||sidaster|
+||how to tune database|
+||Difference between rank and dense rank|
+||SQL Server , Service packs , cluster , alwayson, nirroring|
+||about clustering.|
+||Replication|
+||what is difference between cluster and non cluster index|
+||SQL - HOW TO DELETE DUPLICATE RECORDS BY KEEPING ONE ROW IN MAIN TABLE|
+||DIFFERENCE BETWEEN MERGE AND UNION ALL TRANSFORMATIONS?|
+||what is cross join|
+||concept of DWH|
+||Abt sql, joins, delete, drop, Truncate, unique n primary key foreign, some queries, abt database, cursor, trigger procedure, functions.|
+||what is recursive stored procedure and syntax?|
+||differnce between drop and truncate|
+||Explain oops concepts with Real time example? What is normalization?|
+||sql loader. How to truncate partition. error in extenal table. some scenario based external table and partition. and some query|
+||Indexing and partitioning strategies|
+||does deadlock occur in SQL |
+||why hexaware|
+||join,transaction,lock,block,deadlock|
+||Quries , Remove duplicates with different functionalities , quest based on analytical functions , rank , desk rank , first , last ,grouping|
+||log shipping, mirroring, clustering, Always on|
+||SQL Replication questions, Question on HADR like Mirroring , logshipping and Always On. SQL performance related question|
+||Normalization and its types.Trigger and its types.diff bet Procedure and Function.Constraints.Use of Primary key and Foreign key.some Real time example for above concepts|
+||How to create a compound trigger?|
+||basics of SQL, SQL performances,SSIR,SSRS,SQL Quries|
+||WHAT IS CHECKPOINT AND WHAT ARE CONFIG OPTIONS AVAILABLE?|
+||What is referential integrity|
+||SQL: joins, constraints, clauses, identity column|
+||Overview of Azure data factory and it's use.|
+||Plsql - collections, bulk collect SQL -truncate function with dates, logical sql queries Data base modeling Performance tuning
+||Same questions, queries asked in each round|
+||what are views|
+||what is index|
+||SQL Joins, Aggregation functions, substring, sql queries based on the interviewer's conditions, Java oops concepts, Normalisation- removing redundancy, small puzzles|
+||What different are the Constraints used on Table Columns in SQL?|
+||questions on join,types of join,view,unique key, some basic question query was lyk, write a query to display 3rd highest salary of employee|
+||Difference between a view and materialized view? Can we modify a view? if any view is modifiable? Difference between PLSQL table and Varray? Have you ever used utl_file package? Write a program to bulk insert into a table using FORALL ? Find the 2nd highest salary of an employee? Difference between procedure and function|
+||high availability concepts|
+||Difference between truncate and delete write query to get third maximum salary. write query to get all employee belonging to sales ||department having salary > 20000. what is view ? what is trigger?|
+||sql joins, constraints, normalization etc|
+||Difference between Procedures and Functions?|
+||WHAT ARE DIFF JOINS IN SQL? & EXPLAIN CARTISIAN JOIN.|
+||Olap vs oltp|
+||what is difference between union and union all?|
+||can primary key have null value?|
+||types of SDLC|
+||Clustered and Non-clustered indexes.|
+||Difference between ASM and ADDR report|
 
 1. ### What is a Database
 
